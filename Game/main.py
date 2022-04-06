@@ -7,7 +7,7 @@ from Hero import Main_Hero
 from Menu import Menu
 from Addition_Module import check_mouse_cor,move_map,matrix_image,create_map
 from Text import Font
-
+#FDLSSMFLDSNFKDNFLKFNKDSNFKFNDSNMFSDK
 pygame.init()
 pygame.font.init()
 #Записываем размеры нашего экрана
